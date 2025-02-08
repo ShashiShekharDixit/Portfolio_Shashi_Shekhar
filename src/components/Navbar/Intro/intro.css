@@ -13,7 +13,9 @@
     z-index: 12;
     object-fit: cover;
     height: 105vh;
-    padding: 0.2rem;
+    padding: 2rem;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .introContent {
